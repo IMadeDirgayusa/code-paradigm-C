@@ -1,0 +1,2 @@
+# code-paradigm-C
+belajar
